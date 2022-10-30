@@ -10,3 +10,12 @@ This week we will practice how to work with OpenStreetMap data and conduct netwo
 This week we have two problems that needs solving. Start the exercise from following link:
 
  - [Exercise-6-problems-1-2.ipynb](Exercise-6-problems-1-2.ipynb)
+ 
+## Grading
+
+- Problem 1: 8/8 points
+- Problem 2: 12/12 points
+
+**Total: 20/20**
+
+Comments: Superb!
